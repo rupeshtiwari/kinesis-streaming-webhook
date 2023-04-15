@@ -1,6 +1,8 @@
 # Welcome to Kinesis Streaming by GitHub webhook
 
 
+## Source code for AWS Lambda function to push the payload to Amazon Kinesis
+
 ```py
 import json
 import boto3
